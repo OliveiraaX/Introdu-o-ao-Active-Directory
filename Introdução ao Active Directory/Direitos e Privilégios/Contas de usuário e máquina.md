@@ -24,7 +24,7 @@ O AD permite a provisão e gestão de contas de usuário, normalmente com pelo m
 
 As contas locais são armazenadas em um servidor ou estação de trabalho específico e só possuem direitos naquele host. Existem várias contas padrão em um sistema Windows:
 
-1. **Administrator**: esta conta possui o SID `S-1-5-domain-500`e é a primeira conta criada com uma nova instalação do Windows., com controle total sobre quase todos os recursos do sistema.
+1. **Administrator**: esta conta possui o SID `S-1-5-domain-500`e é a primeira conta criada com uma nova instalação do Windows, com controle total sobre quase todos os recursos do sistema.
 2. **Guest**: Desabilitada por padrão, permite login temporário com direitos limitados.
 3. **SYSTEM**: Conta usada pelo sistema operacional para funções internas, com permissões sobre quase tudo no host.
 4. **Network Service**: Conta usada para executar serviços do Windows com credenciais apresentadas aos serviços remotos.
