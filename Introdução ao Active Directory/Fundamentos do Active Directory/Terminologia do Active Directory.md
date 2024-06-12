@@ -1,3 +1,4 @@
+# Terminologia do Active Directory
 **Objeto** — Em um ambiente do Active Directory, um objeto refere-se a qualquer recurso que pode ser representado e gerenciado pelo AD. Isso inclui usuários, grupos, computadores, impressoras, pastas compartilhadas e muito mais.
 
 **Atributos** — Todo objeto em um ambiente do Active Directory possui atributos, que são propriedades que descrevem o objeto. Por exemplo, um usuário pode ter atributos como nome, endereço de email, senha, grupo de pertença, etc.
